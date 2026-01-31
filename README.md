@@ -29,16 +29,18 @@ $ pip install torch transformers librosa soundfile tqdm
   * [Wagner]()らが開発した感情推定器内部で使用されているSSLを使用
   * 詳しくは[こちら](https://arxiv.org/abs/2203.07378)を参照
 
-## License
-This repository contains original code for emotion and intensity estimation,
-which is released under the BSD 3-Clause License.
-This work uses the following pretrained models from Hugging Face:
-- **audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim**  
-  Licensed under **CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)**.  
-  This model is restricted to **non-commercial use only**.  
-  Please refer to the original model card for details:  
-  https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
-- **imprt/izanami-wav2vec2-large**  
-  This model is distributed under its own license.  
-  Please refer to the original repository for the license terms:  
-  https://huggingface.co/imprt/izanami-wav2vec2-large
+## ライセンス
+* 感情推定および感情強度推定のためのオリジナルコードにつきましては，
+**BSD 3-Clause License** の下で公開されています．
+* SSLにつきましては，Hugging Face で公開されている以下の事前学習モデルを使用しています．
+  - **audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim**  
+    ライセンス: **CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)**  
+    本モデルは **非商用利用のみに制限**されています。  
+    詳細については、以下の公式モデルカードを参照してください。  
+    https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+  
+  - **imprt/izanami-wav2vec2-large**  
+    本モデルは **独自のライセンス**の下で配布されています。  
+    ライセンス条件の詳細については、以下の公式ページを参照してください。  
+    https://huggingface.co/imprt/izanami-wav2vec2-large
+
