@@ -33,7 +33,7 @@ $ pip install torch transformers librosa soundfile tqdm
 * 感情推定および感情強度推定のためのオリジナルコードにつきましては，
 **BSD 3-Clause License** の下で公開されています．
   - © 2026, Masaki Mitani
-  - 詳細は [LICENSE]()ファイルを参照してください．
+  - 詳細は [LICENSE]()を参照してください．
 * SSLにつきましては，Hugging Face で公開されている以下の事前学習モデルを使用しています．
   - **audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim**  
     ライセンス: **CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)**  
