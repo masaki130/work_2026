@@ -1,4 +1,5 @@
 # 自己教師あり学習モデルを使用した音声感情強度推定
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 
 ## 説明
 * [Huggingface](https://huggingface.co/)に公開されているSSLで音声特徴量を抽出
