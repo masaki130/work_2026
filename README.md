@@ -9,7 +9,7 @@
 ```
 $ conda create -n ser python=3.11 -y
 $ conda activate ser
-$ git clone git@github.com:masaki130/work_2026.git
+$ git clone https://github.com/masaki130/work_2026.git
 $ cd work_2026
 $ pip install torch transformers librosa soundfile tqdm
 ```
