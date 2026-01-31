@@ -29,5 +29,18 @@ $ pip install torch transformers librosa soundfile tqdm
   * 詳しくは[こちら](https://arxiv.org/abs/2203.07378)を参照
 
 ## ライセンス
-* [こちら１](https://huggingface.co/imprt/izanami-wav2vec2-large/blob/main/LICENSE.md)を参照
-* [こちら２](https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim)を参照
+This repository contains original code for emotion and intensity estimation,
+which is released under the BSD 3-Clause License.
+
+This work uses the following pretrained models from Hugging Face:
+
+- **audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim**  
+  Licensed under **CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)**.  
+  This model is restricted to **non-commercial use only**.  
+  Please refer to the original model card for details:  
+  https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+
+- **imprt/izanami-wav2vec2-large**  
+  This model is distributed under its own license.  
+  Please refer to the original repository for the license terms:  
+  https://huggingface.co/imprt/izanami-wav2vec2-large
