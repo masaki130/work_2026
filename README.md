@@ -28,11 +28,6 @@ $ pip install torch transformers librosa soundfile tqdm
   * [Wagner]()らが開発した感情推定器内部で使用されているSSLを使用
   * 詳しくは[こちら](https://arxiv.org/abs/2203.07378)を参照
 
-## 実行環境
-* Ubntu：24.04
-* Python：3.11
-* vscodeを使用
-
 ## ライセンス
 * [こちら１](https://huggingface.co/imprt/izanami-wav2vec2-large/blob/main/LICENSE.md)を参照
 * [こちら２](https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim)を参照
