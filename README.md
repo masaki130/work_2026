@@ -10,12 +10,12 @@
 $ git clone git@github.com:masaki130/work_2026.git
 ```
 
-# 必要なソフトウェア
-* Python
-  * テスト済み：3.11
+## 必要なソフトウェア
+* Python：3.11
 
-# テスト環境
+## 実行環境
 * Ubntu：24.04
 
-# ライセンス
-* [こちら]()を参照
+## ライセンス
+* [こちら１](https://huggingface.co/imprt/izanami-wav2vec2-large/blob/main/LICENSE.md)を参照
+* [こちら２](https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim)を参照
