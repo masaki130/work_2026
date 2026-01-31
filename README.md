@@ -14,11 +14,9 @@ $ cd work_2026
 $ pip install torch transformers librosa soundfile tqdm
 ```
 
-## 必要なソフトウェア
-* Python：3.11
-
 ## 実行環境
 * Ubntu：24.04
+* Python：3.11
 
 ## ライセンス
 * [こちら１](https://huggingface.co/imprt/izanami-wav2vec2-large/blob/main/LICENSE.md)を参照
