@@ -5,6 +5,7 @@
 [![SSL](https://img.shields.io/badge/SSL-wav2vec2%20%7C%20HuBERT-success)](https://huggingface.co/facebook/wav2vec2-base)
 [![OS](https://img.shields.io/badge/OS-Ubuntu_24.04-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Editor](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 説明
 * [Huggingface](https://huggingface.co/)に公開されているSSLで音声特徴量を抽出
@@ -28,18 +29,15 @@ $ pip install torch transformers librosa soundfile tqdm
   * [Wagner]()らが開発した感情推定器内部で使用されているSSLを使用
   * 詳しくは[こちら](https://arxiv.org/abs/2203.07378)を参照
 
-## ライセンス
+## License
 This repository contains original code for emotion and intensity estimation,
 which is released under the BSD 3-Clause License.
-
 This work uses the following pretrained models from Hugging Face:
-
 - **audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim**  
   Licensed under **CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)**.  
   This model is restricted to **non-commercial use only**.  
   Please refer to the original model card for details:  
   https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
-
 - **imprt/izanami-wav2vec2-large**  
   This model is distributed under its own license.  
   Please refer to the original repository for the license terms:  
