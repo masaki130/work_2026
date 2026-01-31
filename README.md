@@ -36,12 +36,12 @@ $ pip install torch transformers librosa soundfile tqdm
 * SSLにつきましては，Hugging Face で公開されている以下の事前学習モデルを使用しています．
   - **audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim**  
     ライセンス: **CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)**  
-    本モデルは **非商用利用のみに制限**されています。  
-    詳細については、以下の公式モデルカードを参照してください。  
+    本モデルは **非商用利用のみに制限**されています． 
+    詳細については，以下の公式モデルカードを参照してください．  
     https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
   
   - **imprt/izanami-wav2vec2-large**  
-    本モデルは **独自のライセンス**の下で配布されています。  
-    ライセンス条件の詳細については、以下の公式ページを参照してください。  
+    本モデルは **独自のライセンス**の下で配布されています．  
+    ライセンス条件の詳細については，以下の公式ページを参照してください．  
     https://huggingface.co/imprt/izanami-wav2vec2-large
 
