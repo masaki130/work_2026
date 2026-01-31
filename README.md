@@ -26,7 +26,7 @@ $ pip install torch transformers librosa soundfile tqdm
   * 産総研が開発した[いざなみ](https://huggingface.co/imprt/izanami-wav2vec2-large)というSSLを使用
   * 詳しくは[こちら](https://www.aist.go.jp/aist_j/press_release/pr2025/pr20250310/pr20250310.html)を参照
 * wav2vec2_vad_ogvc_re.ipynb
-  * [Wagner]()らが開発した感情推定器内部で使用されているSSLを使用
+  * Wagnerらが開発した感情推定器内部で使用されているSSLを使用
   * 詳しくは[こちら](https://arxiv.org/abs/2203.07378)を参照
 
 ## ライセンス
