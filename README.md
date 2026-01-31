@@ -1,4 +1,4 @@
-# 自己教師あり学習モデル(SSL)を使用した音声感情強度推定
+# 自己教師あり学習モデルを使用した音声感情強度推定
 
 # 説明
 * [Huggingface](https://huggingface.co/)に公開されているSSLで音声特徴量を抽出
@@ -9,8 +9,6 @@
 ```
 $ git clone git@github.com:masaki130/work_2026.git
 ```
-# 結果
-
 
 ## 必要なソフトウェア
 * Python
