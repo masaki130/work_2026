@@ -8,7 +8,7 @@
 
 ## 説明
 * [Huggingface](https://huggingface.co/)に公開されているSSLで音声特徴量を抽出
-* 上記を入力として，感情カテゴリは[ロジスティック回帰](https://qiita.com/0NE_shoT_/items/b702ab482466df6e5569)，感情強度は[リッジ回帰](https://qiita.com/kotmats/items/1ccb41ca278e400b6197)を用いて学習
+* 感情カテゴリは[ロジスティック回帰](https://qiita.com/0NE_shoT_/items/b702ab482466df6e5569)，感情強度は[リッジ回帰](https://qiita.com/kotmats/items/1ccb41ca278e400b6197)を用いて学習
 * データセットは[OGVC](https://research.nii.ac.jp/src/OGVC.html)を使用
 
 ## 導入
